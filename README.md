@@ -1,6 +1,6 @@
 # nuruljamal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrlnzjml&label=Profile%20views&color=0e75b6&style=flat" alt="nrlnzjml" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drnuruljamal&label=Profile%20views&color=0e75b6&style=flat" alt="nrlnzjml" /> </p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVseTNuZTdnenZnb3BsdnlwZ2Z2Zmh2bm9weGg1czkxeXhxY3VpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="200"/>
@@ -10,8 +10,8 @@
 <h3 align="center">Passionate about research that bridges education, data, and technology</h3>
 </div>
 
-![GitHub Follow](https://img.shields.io/github/followers/nrlnzjml.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/nrlnzjml?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+![GitHub Follow](https://img.shields.io/github/followers/drnuruljamal.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/drnuruljamal?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 #### :woman_technologist: About Me
 - Expertise **Adaptive Learning, Learning Analytics, Computational Thinking, Student Competencies**
@@ -73,9 +73,9 @@
 #### 📊 My GitHub Statistics
 
 
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrlnzjml&show_icons=true&locale=en" alt="statistic" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drnuruljamal&show_icons=true&locale=en" alt="statistic" /></p>
 
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrlnzjml&" alt="streak_status" /></p>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drnuruljamal&" alt="streak_status" /></p>
 
 
 
