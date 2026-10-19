@@ -72,6 +72,7 @@ My research focuses on developing adaptive and competency-based learning framewo
 - CSS3003 — Computer Application and System Design
 - CSF3043 — Object Oriented Programming
 - CSF3213 — Operating System
+- CSF3003 - Discrete Structure
 
 ### Foundation Courses
 - FSPT0012 — Computer Literacy
